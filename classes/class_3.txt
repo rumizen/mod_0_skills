@@ -1,0 +1,20 @@
+Class 3
+
+Owner
+
+  Attributes:
+    First name (string)
+    Last name (string)
+    Ownership stake (float)
+    Chains owned (integer)
+    Employees (integer)
+    Years owned (float)
+
+  Methods:
+    CloseRestaurant
+    SellRestaurant
+    Renovate
+    HireManager
+    FireManager
+    WithdrawFromAccount
+    GiveEmployeeOfTheMonth
