@@ -1,0 +1,21 @@
+Class 2
+
+Cook
+
+  Attribiutes:
+    First name (string)
+    Last name (string)
+    Position (hash) [name, position]
+    Working today (boolean)
+    Months worked here (integer)
+    Average weekly hours worked (float)
+    Types of dishes (array)
+
+  Methods:
+    FillOrder
+    OrderUp
+    PrepIngredients
+    ClockIn
+    ClockOut
+    RequestTimeOff
+    CashPaycheck
