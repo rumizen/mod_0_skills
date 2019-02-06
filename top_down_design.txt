@@ -1,0 +1,37 @@
+Getting Food at a Restaurant
+
+1. Travel to restaurant
+  1.1 Get in car
+  1.2 Start car
+  1.3 Plug in restaurant address in Google Maps
+    1.3.1 Unlock phone
+    1.3.2 Open "Navigation Apps" folder
+    1.3.3 Tap "Google Maps" icon
+    1.3.4 Tap the search bar at the top of the interface
+    1.3.5 Type in the name of the restaurant
+    1.3.6 Check that the restaurant is in the general location you thought it would be
+  1.4 Follow directions to restaurant
+  1.5 Find parking spot in restaurant parking lot
+    1.5.1 If there is no parking lot, look for street parking near the restaurant
+    1.5.2 If there is no street parking nearby, drive around for several minutes while cursing to yourself
+    1.5.3 If you can't find any parking after 15 minutes, return home and hail an Uber
+  1.6 Park car
+  1.7 Turn off car
+  1.8 Exit car
+  1.9 Lock car
+  1.10 Enter restaurant
+2. Get a table
+  2.1 Find host stand
+  2.2 Ask host for a table for one
+  2.3 Wait in waiting area until host tells you your table is ready
+    2.3.1 Sit in a corner
+    2.3.2 Hunch down and stare at your phone
+    2.3.3 Avoid eye-contact with other humans
+  2.4 Follow host to your table
+  2.5 Thank host for their service
+3. Order food from server
+  3.1 Wait at table until your server arrives
+  3.2 When server asks what you'd like to drink, respond' "Just water for me, I'm driving."
+  3.3 Wait for server to come back with your water
+  3.4 Once server is back, order the greek salad by saying, "I'll have the greek salad, I'm trying to lose weight."
+  3.5 Sip your water until server returns with your greek salad
