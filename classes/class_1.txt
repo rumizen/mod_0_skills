@@ -1,0 +1,24 @@
+Class 1
+
+Server:
+
+  Attributes:
+    First name (string)
+    Last name (string)
+    Pronouns (string)
+    Months worked here (integer)
+    Age (integer)
+    Average hours worked per week (float)
+    Hourly wage (integer)
+
+  Methods:
+    GreetGuest
+    ClockIn
+    ClockOut
+    CallInSick
+    RequestTimeOff
+    FillOrder
+    RunFood
+
+
+
